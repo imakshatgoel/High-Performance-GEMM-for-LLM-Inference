@@ -97,4 +97,4 @@ perf stat -e L1-dcache-load-misses,l2_rqsts.miss,LLC-load-misses,sw_prefetch_acc
 
 ## Acknowledgements
 
-Originally developed as part of CS683 (Advanced Computer Architecture) at IIT Bombay, with [teammate names]. Base code and benchmark harness provided by the course staff.
+Originally developed for CS683 (Advanced Computer Architecture) at IIT Bombay, taught by Prof. Biswabandan Panda.
